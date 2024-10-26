@@ -1,0 +1,8 @@
+{
+    "name": "Addblocker Experimental",
+    "version": "1.0",
+    "description": "Um teste para criar um adblocker",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {"scrpits": ["fundo.js"]},
+    "manifest_version": 2
+}
